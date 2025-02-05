@@ -17,7 +17,7 @@
 
 6. Осуществить запуск программы командным средством MS MPI, которое расположено в директории проекта `Test_task` в папке vendor: `vendor\Microsoft MPI\Bin\mpiexec.exe`:
    ```
-   <Путь к папке с клонированным репозиторием>\vendor\Microsoft MPI\Bin\mpiexec.exe -n 4 Test_task.exe
+   <Путь к папке с клонированным репозиторием>\vendor\"Microsoft MPI"\Bin\mpiexec.exe -n 4 Test_task.exe
    ```
    - Где `4` — максимально допустимое количество потоков и, соответственно, сортировок (минимум 1).
    - `Test_task.exe` — собранное решение.
