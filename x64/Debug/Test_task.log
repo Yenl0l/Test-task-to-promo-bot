@@ -1,0 +1,6 @@
+﻿  Test_task.cpp
+C:\Users\79655\Test_task\Test_task.cpp(86,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79655\Test_task\Test_task.cpp(98,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79655\Test_task\Test_task.cpp(112,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79655\Test_task\Test_task.cpp(145,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Test_task.vcxproj -> C:\Users\79655\Test_task\x64\Debug\Test_task.exe
