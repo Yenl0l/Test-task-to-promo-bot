@@ -6,7 +6,7 @@
 
 2. Клонировать репозиторий с помощью команды `git clone`:
    ```
-   git clone https://github.com/Yenl0l/Test_task
+   git clone https://github.com/Yenl0l/Test-task-to-promo-bot
    ```
 
 3. Перейти в папку `Test_task` с клонированным репозиторием и открыть файл решения `Test_task.sln`.
